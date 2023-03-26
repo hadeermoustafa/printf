@@ -1,2 +1,1 @@
-# printf
-In collaboration with Ahmed Mahmoud
+0x11. C - printf
